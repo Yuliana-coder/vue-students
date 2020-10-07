@@ -38,5 +38,19 @@
     "> 1%",
     "last 2 versions",
     "not dead"
-  ]
+  ],
+  "homepage": "https://yuliana-coder.github.io/vue-deploy.github.io/",
+  "keywords": [
+    "vue",
+    "javascript",
+    "vuejs",
+    "vue.js",
+    "input",
+    "vue component"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yuliana-coder/vue-deploy.github.io.git"
+  }
 }
